@@ -1,0 +1,4 @@
+Flask
+ibm-watson
+ibm-cloud-sdk-core
+gunicorn  # Optional (for production deployment)
